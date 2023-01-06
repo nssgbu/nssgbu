@@ -23,22 +23,6 @@
     background-size: cover;
 }
 
-.img:nth-child(1){
-    background-image: url(/sites/photogallery/harghartiranga15-8-2022/p1.jpeg);
-}
-.img:nth-child(2){
-    background-image: url(/sites/photogallery/harghartiranga15-8-2022/p2.jpeg);
-}
-.img:nth-child(3){
-    background-image: url(/sites/photogallery/harghartiranga15-8-2022/p3.jpeg);
-}
-.img:nth-child(4){
-    background-image: url(/sites/photogallery/harghartiranga15-8-2022/p4.jpeg);
-}
-.img:nth-child(5){
-    background-image: url(/sites/photogallery/harghartiranga15-8-2022/p5.jpeg);
-}
-
 @media(max-width:1600px){
     .container{
         width: 100%;
